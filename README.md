@@ -1,3 +1,2 @@
-# monsterMakerProject
-RPG entity formatting and generation program.
-Having fun is top priority.
+# Pet Projects
+General Repository for nonserious projects.
